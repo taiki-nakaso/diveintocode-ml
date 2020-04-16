@@ -1,4 +1,3 @@
 # diveintocode-ml
-**first** git repo
-# description
-None
+## description
+DIC課題提出用repo
